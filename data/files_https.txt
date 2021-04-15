@@ -1,0 +1,10 @@
+/vsicurl/https://lpdaac.earthdata.nasa.gov/lp-prod-protected/HLSS30.015/HLS.S30.T13TGF.2020191T172901.v1.5.B04.tif
+/vsicurl/https://lpdaac.earthdata.nasa.gov/lp-prod-protected/HLSS30.015/HLS.S30.T13TGF.2020274T174141.v1.5.B04.tif
+/vsicurl/https://lpdaac.earthdata.nasa.gov/lp-prod-protected/HLSS30.015/HLS.S30.T13TGF.2020279T174119.v1.5.B04.tif
+/vsicurl/https://lpdaac.earthdata.nasa.gov/lp-prod-protected/HLSS30.015/HLS.S30.T13TGF.2020281T173211.v1.5.B04.tif
+/vsicurl/https://lpdaac.earthdata.nasa.gov/lp-prod-protected/HLSS30.015/HLS.S30.T13TGF.2020284T174251.v1.5.B04.tif
+/vsicurl/https://lpdaac.earthdata.nasa.gov/lp-prod-protected/HLSS30.015/HLS.S30.T13TGF.2020286T173259.v1.5.B04.tif
+/vsicurl/https://lpdaac.earthdata.nasa.gov/lp-prod-protected/HLSS30.015/HLS.S30.T13TGF.2020289T174319.v1.5.B04.tif
+/vsicurl/https://lpdaac.earthdata.nasa.gov/lp-prod-protected/HLSS30.015/HLS.S30.T13TGF.2020291T173331.v1.5.B04.tif
+/vsicurl/https://lpdaac.earthdata.nasa.gov/lp-prod-protected/HLSS30.015/HLS.S30.T13TGF.2020294T174351.v1.5.B04.tif
+/vsicurl/https://lpdaac.earthdata.nasa.gov/lp-prod-protected/HLSS30.015/HLS.S30.T13TGF.2020301T173431.v1.5.B04.tif
